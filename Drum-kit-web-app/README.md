@@ -4,7 +4,7 @@
 
 ### Use of the Project:
 
-<p>It is simple web game whire you can enjoy the playing the music in your free time. </p>
+<p>It is a simple web game where you can enjoy the playing the music in your free time. </p>
 
  ### Used Technologies:
 
